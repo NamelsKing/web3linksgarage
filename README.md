@@ -64,6 +64,7 @@ https://dev.to/dabit3/the-complete-guide-to-full-stack-web3-development-4g74
 ## W3Projects
 
 #### Scans
+https://blockscan.com/
 https://etherscan.io/
 https://polygonscan.com/
 https://ftmscan.com/
