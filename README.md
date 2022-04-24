@@ -16,11 +16,17 @@ or projects that already exists and became defacto in the industry.
     - [Examples](#Examples)
 - [W3Projects](#W3Projects)
     - [Scans](#Scans)
-    - [DeFi](#DeFi)
-    - [NFT](#NFT)
     - [Wallets](#Wallets)
+    - [DeFi](#DeFi)
+      -  [Stat](#Stat)
+      -  [Protocols](#Protocols)
+      -  [Swaps](#Swaps)
+      -  [Landing.Borowing](#Landing.Borowing)
+      -  [Derivatives](#Derivatives)
+      -  [Paystreams](#Paystreams)
+      -  [Lottery](#Lottery)
+    - [NFT](#NFT)
     - [Bridges](#Bridges)
-    - [Swaps](#Swaps)
 - [Misc](#Misc)
     - [Hackathons.Jobs](#Hackathons.Jobs)
     - [Books](#Books)
@@ -69,15 +75,46 @@ or projects that already exists and became defacto in the industry.
 - https://polygonscan.com/
 - https://ftmscan.com/
 
-#### DeFi
-`Stats:`
+#### Wallets
+- https://gnosis-safe.io/
+- https://metamask.io/
+
+### DeFi
+
+##### Stat
 - https://defipulse.com
 - https://coinmarketcap.com/
 
-`Protocols:`
-- https://convexfinance.com
+##### Protocols
 - https://curve.fi
-- https://app.balancer.fi
+- https://convexfinance.com/stake
+- https://www.oasis.app/
+
+##### Swaps
+`Pool Based`:
+- https://uniswap.org/
+- https://balancer.fi/
+
+`Order book`:
+- https://deversifi.com/
+
+`AggSwaps`:
+- https://1inch.io/
+- https://www.paraswap.io/
+
+
+##### Landing.Borowing
+- https://aave.com/
+- https://compound.finance/
+
+##### Derivatives
+- https://synthetix.io/
+
+##### Paystreams
+- https://sablier.finance/
+
+##### Lottery
+- https://pooltogether.com/
 
 #### NFT
 `MarketPlaces`:
@@ -88,18 +125,10 @@ or projects that already exists and became defacto in the industry.
 - https://rarity.tools/
 - https://www.nftcatcher.io/
 
-#### Wallets
-- https://gnosis-safe.io/
-- https://metamask.io/
-
 #### Bridges
 - https://cbridge.celer.network/#/transfer
 - https://app.multichain.org/#/router
 - https://bridge.renproject.io/welcome
-
-#### Swaps
-- https://uniswap.org/
-- https://balancer.fi/
 
 ## Misc
 
