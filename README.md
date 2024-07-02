@@ -57,7 +57,6 @@ or projects that already exists and became defacto in the industry.
 #### Guides
 - https://cryptozombies.io/
 - https://speedrunethereum.com/
-- https://dev.to/dabit3/the-complete-guide-to-full-stack-web3-development-4g74
 
 
 #### Examples
@@ -82,13 +81,11 @@ or projects that already exists and became defacto in the industry.
 ### DeFi
 
 ##### Stat
-- https://defipulse.com
 - https://coinmarketcap.com/
 
 ##### Protocols
 - https://curve.fi
 - https://convexfinance.com/stake
-- https://www.oasis.app/
 
 ##### Swaps
 `Pool Based`:
@@ -133,7 +130,6 @@ or projects that already exists and became defacto in the industry.
 ## Misc
 
 #### Hackathons.Jobs
-- https://gitcoin.co/
 - https://ethglobal.com/
 - https://remote3.co/web3-jobs
 
